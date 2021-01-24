@@ -9,9 +9,9 @@ Idea: Program reads stock tickers from the .txt file provided, gets data about t
 
 Program handles lack of data for the particular stock by leaving row blank.
 
-Sample Excel file output
+Sample Excel file output:
 
-<img src="excelOutput.jpg" width = "150" >
+<img src="excelOutput.jpg" width = "1500" >
 
 ## Technologies
 
